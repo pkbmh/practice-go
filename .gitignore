@@ -1,5 +1,5 @@
 output
 conf/deploy_*.conf
-.idea/
+.idea
 restart.sh
 .vscode
